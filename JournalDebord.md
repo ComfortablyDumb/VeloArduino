@@ -14,7 +14,7 @@ Durant cette séance nous avons testé un moteur qui pourrait être le futur mot
 Aujourd'hui j'ai commencé la construction du corps du vélo avec les meccano. J'essaie de m'inspirer de la structure du vélo de ce site:https://iedprojects2015.blogspot.com/2015/03/self-balancing.html. J'ai eu du mal à créer une structure stable car les vis ne correspondaient pas aux trous du moteur donc j'ai du scié deux bouts de fils de fer qui avaient un largeure plus adéquate. J'ai pour l'instant juste réussi à créer une structure autour de la roue qu'on pourra joindre au corps du vélo.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/blob/master/image_roue.jpg" alt="image_roue" width="200px">
+  <img src="https://imgur.com/a/cOloPOT" alt="image_roue" width="200px">
 </p>
 
 Il me reste donc beaucoup à faire et je pense essayer de quasiment finir la structure durant ce weekend.
