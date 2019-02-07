@@ -47,4 +47,4 @@ Photo du résultat:
 
 On a donc commencé avec Sacha à réfléchir à comment fixer le volant d'inertie sur le vélo. Sacha pensait faire une plaque en bois où l'on pourrait encaster le moteur et la roue d'inertie. On s'est aussi dit que tant qu'à faire on pourrait aussi refaire la roue d'inertie car celle de Sacha tremblait beaucoup du à la mauvaise répartition de la masse de la roue. On a ainsi commencé de faire les mesures des trous du vélo et de modéliser le volant sur le logiciel fusion 360. Pour l'instant nous avons comme résultat:
 
-![photo volant](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/volant.jpg)
+![photo volant](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_volant.jpg)
