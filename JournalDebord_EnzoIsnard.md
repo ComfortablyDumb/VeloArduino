@@ -21,6 +21,7 @@ Il me reste donc beaucoup à faire et je pense essayer de quasiment finir la str
 Quant à Sacha il a réussi à faire fonctionner l'accéléromètre et a pu faire fonctionner un code faisant varier la vitesse du moteur de la roue d'inertie en fonction de l'inclinaison de l'accéléromètre.
 Durant des recherches sur notre projet j'ai trouvé un pdf décrivant une méthode pour configurer les coefficients du pid (<https://brage.bibsys.no/xmlui/bitstream/handle/11250/2451060/12762_FULLTEXT.pdf?sequence=1> à la page 15).
 
+
 ## Rapport du 18/01/19
 
 Durant cette semaine j'ai beaucoup avancé la structure du vélo. J'ai réussi à créer une base en enfonçant deux pièces et en les visant entre elles. J'ai aussi vissé la roue avec la moteur.
@@ -34,3 +35,18 @@ J'ai ensuite pendant cette séance essayé de résoudre les problemes de stabili
 
 J'ai encore comme problemes que quand je visse la roue sans moteur sur le vélo que cette dernière peut tourner car la vis se déssert sans cesse et que les deux roues ne sont pas encore complètement parralèles.
 Durant ce weekend je vais essayé de résoudre ces problemes qui sont du moins assez simples à résoudre à mon avis.
+
+
+## Rapport du 6/02/19
+
+Durant cette séance j'ai enfin finalisé la structure du vélo. J'ai consolidé la partie de la roue sans moteur et j'ai remplacé les pièces en caoutchouc qui fixer la roue par des écrous en métal car cela crée trop de frottements. J'ai aussi fait en sort que le moteur soit plus accéssible pour qu'on puisse plus facilement y accéder quand on devra le brancher à la carte. Globalement je suis assez satisfait du résultat même si il manque encore une structure pour mettre la carte et le volant d'inertie.
+
+Photo du résultat: 
+
+![photo velo 3](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_velo_2.jpg)
+
+On a donc commencé avec Sacha à réfléchir à comment fixer le volant d'inertie sur le vélo. Sacha pensait faire une plaque en bois où l'on pourrait encaster le moteur et la roue d'inertie. On s'est aussi dit que tant qu'à faire on pourrait aussi refaire la roue d'inertie car celle de Sacha tremblait beaucoup du à la mauvaise répartition de la masse de la roue. On a ainsi commencé de faire les mesures des trous du vélo et de modéliser le volant sur le logiciel fusion 360. Pour l'instant nous avons comme résultat:
+
+
+![photo volant](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/volant.jpg)
+
