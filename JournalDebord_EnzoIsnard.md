@@ -33,7 +33,7 @@ J'ai ensuite pendant cette séance essayé de résoudre les problemes de stabili
 
 ![photo velo 2](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_roue_2.jpg)
 
-J'ai encore comme problemes que quand je visse la roue sans moteur sur le vélo que cette dernière peut tourner car la vis se déssert sans cesse et que les deux roues ne sont pas encore complètement parralèles.
+J'ai encore comme problemes quand je visse la roue sans moteur sur le vélo que cette dernière peut tourner car la vis se déssert sans cesse et que les deux roues ne sont pas encore complètement parralèles.
 Durant ce weekend je vais essayé de résoudre ces problemes qui sont du moins assez simples à résoudre à mon avis.
 
 
