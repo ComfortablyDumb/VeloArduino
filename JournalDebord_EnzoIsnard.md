@@ -48,3 +48,13 @@ Photo du résultat:
 On a donc commencé avec Sacha à réfléchir à comment fixer le volant d'inertie sur le vélo. Sacha pensait faire une plaque en bois où l'on pourrait encaster le moteur et la roue d'inertie. On s'est aussi dit que tant qu'à faire on pourrait aussi refaire la roue d'inertie car celle de Sacha tremblait beaucoup du à la mauvaise répartition de la masse de la roue. On a ainsi commencé de faire les mesures des trous du vélo et de modéliser le volant sur le logiciel fusion 360. Pour l'instant nous avons comme résultat:
 
 ![photo volant](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/Image_volant.png)
+
+## Rapport du 13/02/19 (et du 14/02/19 )
+
+Durant cette séance Sacha et moi avions prévu de finir la modélisation du volant d'inertie et d'autres pièces pour le fixer au vélo puis d'aller au fablab. Malheuresement le fablab était fermé durant la séance donc nous n'avons pas pu faire grand chose. J'ai donc juste rectifié l'allignement des roues du vélo et pensé à comment on allait fixer la carte arduino au vélo. Au début je pensais faire une sorte de plate-forme en dessous du vélo sur laquelle on fixerai la carte mais finalement après des tests je pense qu'on la fixera directement en bas du vélo avec des colliers de serrage.
+
+![photo_carte](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_carte.jpg)
+
+Le lendemain nous sommes allés au fablab afin de découper nos pièces. Cela nous a pris un peu moins d'une heure et nous sommes satisfaits du résulatat.
+
+![photo_pieces](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_pieces.jpg)
