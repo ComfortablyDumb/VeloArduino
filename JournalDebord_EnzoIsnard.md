@@ -58,3 +58,14 @@ Durant cette séance Sacha et moi avions prévu de finir la modélisation du vol
 Le lendemain nous sommes allés au fablab afin de découper nos pièces. Cela nous a pris un peu moins d'une heure et nous sommes satisfaits du résulatat.
 
 ![photo_pieces](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_pieces.jpg)
+
+## Rapport du 27/02/19
+
+Cette séance nous avons terminés le montage du vélo en en collant les différentes pièces qu'on a imprimé au FabLab sur le haut vélo. Cela ne nous a pris trop de temps bien qu'on ait dû démonter et remonté le vélo. 
+
+Voici la forme finale du vélo:
+
+![photo_pieces](https://raw.githubusercontent.com/ComfortablyDumb/VeloArduino/master/image_velo_3.jpg)
+
+On a pu donc commencé à tester l'équilibrage et malheuresement cela a été un gros echec. Le vélo ne s'équilibre pas du tout malgrès que le code du pid fonctionne parfaitement( on voit bien que la roue d'inertie se met à tourner plus vite lorsque le vélo est penché ). Il est très probable que la roue d'inertie ne soit pas assez massive et que donc le moment de force crée par la rotation de la roue ne compense son poid. On pense donc avec Sacha à réimprimer des roues d'inerties et de les empiler sur la première pour avoir plus de masse. On est cependant très peu optimiste et il est fort probable que le projet n'aboutisse pas (à notre grand désarroi).
+
